@@ -6,7 +6,7 @@ This project is a responsive landing page for students looking to study MBBS abr
 This is a responsive landing page for "Study MBBS Abroad," developed as part of a front-end development internship application for University Insights. The page features country listings, program details, and a lead generation form.
 
 ## Live Demo
-Check out the live demo of the project: [Live Demo Link](https://your-site-name.netlify.app)
+Check out the live demo of the project: [Live Demo Link](https://v0.dev/chat/github-study-landing-page-xHlZGYTeGMa))
 
 ## Features
 - Responsive design for all devices.
